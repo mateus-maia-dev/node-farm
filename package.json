@@ -1,0 +1,19 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateus-maia-dev/node-farm.git"
+  },
+  "author": "Mateus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateus-maia-dev/node-farm/issues"
+  },
+  "homepage": "https://github.com/mateus-maia-dev/node-farm#readme"
+}
